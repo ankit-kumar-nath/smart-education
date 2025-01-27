@@ -20,13 +20,13 @@ Teacher and Admin Dashboards: Easy-to-use interfaces for managing courses, track
 Discussion Forums: Built-in communication tools for students and teachers to collaborate.
 
 # Technologies Used
-Frontend: React.js, HTML, CSS
-Backend: Node.js, PHP
-Database: Wamp Server(Localhost)
-AI/ML: Python, TensorFlow, Scikit-learn
-Authentication: JWT (JSON Web Tokens)
-Cloud: AWS S3, Google Cloud
-Deployment: Docker, Kubernetes
+1. Frontend: React.js, HTML, CSS
+2. Backend: Node.js, PHP
+3. Database: Wamp Server(Localhost)
+4. AI/ML: Python, TensorFlow, Scikit-learn
+5. Authentication: JWT (JSON Web Tokens)
+6. Cloud: AWS S3, Google Cloud
+7. Deployment: Docker, Kubernetes
 
 # Installation
 
