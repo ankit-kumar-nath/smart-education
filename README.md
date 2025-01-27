@@ -4,12 +4,12 @@ Smart Education
 Smart Education is an innovative platform designed to enhance learning through the integration of advanced technologies like AI, data analytics, and personalized learning. It provides a comprehensive solution for students, teachers, and administrators to improve educational outcomes and streamline the learning experience.
 
  # Table of Contents
-1.Features
-2.Technologies Used
-3.Installation
-4.Usage
-5.Contributing
-6.License
+1. Features
+2. Technologies Used
+3. Installation
+4. Usage
+5. Contributing
+6. License
 
 # Features
 Personalized Learning: Tailored lesson plans based on student performance and learning style.
