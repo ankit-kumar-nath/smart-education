@@ -21,38 +21,39 @@ Discussion Forums: Built-in communication tools for students and teachers to col
 
 # Technologies Used
 Frontend: React.js, HTML, CSS
-Backend: Node.js, Express
+Backend: Node.js, PHP
 Database: Wamp Server(Localhost)
 AI/ML: Python, TensorFlow, Scikit-learn
 Authentication: JWT (JSON Web Tokens)
 Cloud: AWS S3, Google Cloud
 Deployment: Docker, Kubernetes
-Installation
 
-# Clone the repository:
-git clone https://github.com/your-username/smart-education.git
+# Installation
 
-# Install dependencies for both frontend and backend:
--> Navigate to the frontend directory:
-   cd frontend
-   npm install
+->Clone the repository:
+git clone https://github.com/ankit-kumar-nath/smart-education.git
 
--> Navigate to the backend directory:
-  cd backend
-  npm install
+-> Install dependencies for both frontend and backend:
+   > Navigate to the frontend directory:
+     cd frontend
+     npm install
 
-# Set up environment variables: Create a .env file in the backend directory with the following content:
-  DB_URI=your_mongo_database_url
-  JWT_SECRET=your_jwt_secret_key
+   > Navigate to the backend directory:
+     cd backend
+     npm install
 
-# Start the development server:
--> For frontend:
-   cd frontend
-   npm start
--> For backend:
-  cd backend
-  npm start
- -> Open the application in your browser at http://localhost:3000.
+-> Set up environment variables: Create a .env file in the backend directory with the following content:
+    DB_URI=wamp_coursedatabase_url
+    JWT_SECRET=your_jwt_secret_key
+
+-> Start the development server:
+   > For frontend:
+     cd frontend
+     npm start
+   > For backend:
+     cd backend
+     npm start
+-> Open the application in your browser at http://localhost:80.
 
 # Usage
 Once the application is up and running, users can:
